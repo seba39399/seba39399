@@ -1,7 +1,7 @@
 <div align="center">
 <h2> Hi there and Welcome to my GitHub profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
-<a href="https://www.linkedin.com/in/juan-sebasti%C3%A1n-pe%C3%B1a-valderrama-1a8246276/" target="_blank">
+<a href="[https://linkedin.com" target="_blank">
 <img src="https://shields.io" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/j_seb90" target="_blank">
