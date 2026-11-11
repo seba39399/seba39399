@@ -51,7 +51,7 @@
 
 <p align="center">
   <!-- Backend & Databases -->
-  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,postgresql" alt="Backend & SQL" /><br>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,postgres" alt="Backend & SQL" /><br>
   <sub><b>Backend & Databases</b></sub>
 </p>
 
@@ -66,12 +66,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seba39399&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seba39399&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=seba39399&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=seba39399&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seba39399&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
+  <img src="https://github-readme-streak-stats-glow.vercel.app/?user=seba39399&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%" />
 </p>
 
 ---
@@ -86,12 +86,3 @@ I'm a huge fan of English soccer and lulo juice. 🥤⚽
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
 Ask me anything by <a href="mailto:fluis8270@gmail.com"><b>sending me an email</b></a>.
 <br />
-<br />
-
-**Happy Coding!** 😊
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer" width="100%"/>
-
-</div>
