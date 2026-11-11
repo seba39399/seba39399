@@ -77,7 +77,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-glow.vercel.app/?user=seba39399&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%" />
+  <img src="https://streak-stats.demolab.com?user=seba39399&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 ---
