@@ -32,9 +32,15 @@
 ### 🛠️ Technical Stack
 
 <p align="center">
-  <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git" alt="Cloud & DevOps" /><br>
-  <sub><b>Cloud, Containers & OS</b></sub>
+  <!-- Core Languages -->
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,ts,js,java,r" alt="Languages" /><br>
+  <sub><b>Programming Languages</b></sub>
+</p>
+
+<p align="center">
+  <!-- Cloud & DevOps / IaC -->
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,vercel,linux,git" alt="Cloud & DevOps" /><br>
+  <sub><b>Cloud, Infrastructure (IaC) & DevOps</b></sub>
 </p>
 
 <p align="center">
@@ -45,20 +51,20 @@
 
 <p align="center">
   <!-- AI & MLOps -->
-  <img src="https://skillicons.dev/icons?i=py,pytorch,scikitlearn" alt="AI & MLOps" /><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn" alt="AI & MLOps" /><br>
   <sub><b>AI, MLOps & Data Science</b></sub>
 </p>
 
 <p align="center">
   <!-- Backend & Databases -->
-  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,postgres" alt="Backend & SQL" /><br>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,postgres,mongodb,mysql,sqlite" alt="Backend & Databases" /><br>
   <sub><b>Backend & Databases</b></sub>
 </p>
 
 <p align="center">
-  <!-- Frontend & Tools -->
-  <img src="https://skillicons.dev/icons?i=js,react,streamlit" alt="Frontend" /><br>
-  <sub><b>Frontend & Tools</b></sub>
+  <!-- Frontend & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vite,html,css,streamlit" alt="Frontend & Frameworks" /><br>
+  <sub><b>Frontend & Web Frameworks</b></sub>
 </p>
 
 ---
@@ -86,3 +92,12 @@ I'm a huge fan of English soccer and lulo juice. 🥤⚽
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
 Ask me anything by <a href="mailto:fluis8270@gmail.com"><b>sending me an email</b></a>.
 <br />
+<br />
+
+**Happy Coding!** 😊
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer" width="100%"/>
+
+</div>
