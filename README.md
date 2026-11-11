@@ -1,52 +1,80 @@
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Juan%20Sebastián%20Peña&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
 <h2> Hi there and Welcome to my GitHub profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
-<a href="www.linkedin.com/in/juan-sebastián-peña-valderrama-1a8246276" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/j_seb90" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
-</a>
-
-<br />
-<h3>Cloud & MLOps Engineer | Biomedical Engineer | AI Specialist</h3>
-<br />
-
 <p>
-I am a Biomedical Engineer specialized in Artificial Intelligence, bridging the gap between advanced data science, medical technology, and cloud infrastructure. My core focus centers on developing, automating, and deploying intelligent systems (Computer Vision, NLP, and Transformers) within production-ready cloud environments.
+<a href="https://linkedin.com/in/juan-sebastián-peña-valderrama-1a8246276" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/j_seb90" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:fluis8270@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </p>
 
-I'm currently based in **[Cali, Colombia.](https://www.google.com/maps/place/Cali,+Valle+del+Cauca/@3.3952936,-76.525664,12z/)**
+<h3>Cloud & MLOps Engineer | Biomedical Engineer | AI Specialist</h3>
+
+<p align="center">
+  I am a Biomedical Engineer specialized in Artificial Intelligence, bridging the gap between advanced data science, medical technology, and cloud infrastructure. <br>
+  My core focus centers on developing, automating, and deploying intelligent systems (Computer Vision, NLP, and Transformers) within production-ready cloud environments.
+</p>
+
+<p>📍 Based in <b><a href="https://www.google.com/maps/place/Cali,+Valle+del+Cauca/@3.3952936,-76.525664,12z/">Cali, Colombia</a></b></p>
 
 <br />
-<br />
 
-<h3>🛠️ Technical Stack</h3>
-<table align="center">
-  <tr>
-    <td><b>Cloud & DevOps</b></td>
-    <td>AWS (ECS, Fargate, EC2, RDS, CDK), Azure, Docker, Docker Compose, Linux</td>
-  </tr>
-  <tr>
-    <td><b>CI/CD & Automation</b></td>
-    <td>GitHub Actions, GitLab CI/CD, Bash, Makefiles</td>
-  </tr>
-  <tr>
-    <td><b>AI & MLOps</b></td>
-    <td>Computer Vision, Transformers, RAG, LangChain, Groq Cloud, Vector Databases</td>
-  </tr>
-  <tr>
-    <td><b>Backend & Data</b></td>
-    <td>Python (FastAPI, Pydantic, Django, Flask), gRPC, SQL</td>
-  </tr>
-  <tr>
-    <td><b>Frontend & Tools</b></td>
-    <td>JavaScript (ES6+), React, Streamlit, UV, Ruff</td>
-  </tr>
-</table>
+---
 
+### 🛠️ Technical Stack
 
-<br />
+<p align="center">
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git" alt="Cloud & DevOps" /><br>
+  <sub><b>Cloud, Containers & OS</b></sub>
+</p>
+
+<p align="center">
+  <!-- CI/CD & Automation -->
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,bash" alt="CI/CD" /><br>
+  <sub><b>CI/CD & Automation</b></sub>
+</p>
+
+<p align="center">
+  <!-- AI & MLOps -->
+  <img src="https://skillicons.dev/icons?i=py,pytorch,scikitlearn" alt="AI & MLOps" /><br>
+  <sub><b>AI, MLOps & Data Science</b></sub>
+</p>
+
+<p align="center">
+  <!-- Backend & Databases -->
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,postgresql" alt="Backend & SQL" /><br>
+  <sub><b>Backend & Databases</b></sub>
+</p>
+
+<p align="center">
+  <!-- Frontend & Tools -->
+  <img src="https://skillicons.dev/icons?i=js,react,streamlit" alt="Frontend" /><br>
+  <sub><b>Frontend & Tools</b></sub>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seba39399&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seba39399&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seba39399&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
+</p>
+
+---
 
 <p>
 I'm passionate about continuous learning and open to collaborations on multidisciplinary projects. <br />
@@ -61,5 +89,9 @@ Ask me anything by <a href="mailto:fluis8270@gmail.com"><b>sending me an email</
 <br />
 
 **Happy Coding!** 😊
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer" width="100%"/>
 
 </div>
