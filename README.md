@@ -50,9 +50,21 @@
 </p>
 
 <p align="center">
-  <!-- AI & MLOps -->
+  <!-- AI, MLOps & Data Science -->
   <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn" alt="AI & MLOps" /><br>
   <sub><b>AI, MLOps & Data Science</b></sub>
+</p>
+<p align="center">
+  <code>PyTorch</code> • <code>TensorFlow</code> • <code>Keras</code> • <code>XGBoost</code> • <code>PyCaret</code> • <code>spaCy</code> • <code>LangChain</code> • <code>LangGraph</code> • <code>Ollama</code> • <code>Groq</code> • <code>OpenAI / GPT</code> • <code>Claude</code>
+</p>
+
+<p align="center">
+  <!-- AI Coding & Agentic Workflows -->
+  <img src="https://img.shields.io/badge/AI_Coding_&_Agents-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="Agentic Tools" /><br>
+  <sub><b>AI-Powered Development & Spec-Driven Tooling</b></sub>
+</p>
+<p align="center">
+  <code>Cursor</code> • <code>AWS Kiro</code> • <code>Claude Code</code> • <code>GitHub Codex</code>
 </p>
 
 <p align="center">
