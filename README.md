@@ -51,7 +51,9 @@
 
 <p align="center">
   <!-- AI, MLOps & Deep Learning -->
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,scikitlearn" alt="AI Core" /><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch & TensorFlow" /><br>
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /><br>
   <sub><b>AI, MLOps & Deep Learning</b></sub>
 </p>
 
