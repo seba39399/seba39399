@@ -51,40 +51,8 @@
 
 <p align="center">
   <!-- AI, MLOps & Deep Learning -->
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="AI Core" /><br>
-  <sub><b>AI, MLOps & Deep Learning Frameworks</b></sub>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/XGBoost-%231f1f1f.svg?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/spaCy-%2309A3D5.svg?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" />
-</p>
-
-<p align="center">
-  <!-- LLMs, Agents & Cloud AI APIs -->
-  <img src="https://img.shields.io/badge/LLMs_%&_Agentic_Frameworks-%23101010.svg?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs & Agents" /><br>
-  <sub><b>LLMs, GenAI & Agentic Architectures</b></sub>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-%231c1c1c.svg?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-%231c1c1c.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Groq-%23F55036.svg?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
-  <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Claude-%23D97706.svg?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-</p>
-
-<p align="center">
-  <!-- AI Coding & Agentic Tools -->
-  <img src="https://img.shields.io/badge/AI_Developer_Tools-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="AI Dev Tools" /><br>
-  <sub><b>AI-Powered IDEs & Spec-Driven Tooling</b></sub>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/AWS_Kiro-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Kiro" />
-  <img src="https://img.shields.io/badge/Claude_Code-%23D97706.svg?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,scikitlearn" alt="AI Core" /><br>
+  <sub><b>AI, MLOps & Deep Learning</b></sub>
 </p>
 
 <p align="center">
